@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BackupServer-rescue)(type Legacy)(uri ${KIPRJMOD}/BackupServer-rescue.lib)(options "")(descr ""))
+  (lib (name BaSe_PWR_V3_1-rescue)(type Legacy)(uri ${KIPRJMOD}/BaSe_PWR_V3_1-rescue.lib)(options "")(descr ""))
+)

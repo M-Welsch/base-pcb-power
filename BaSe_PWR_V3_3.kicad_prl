@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "0001028_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "BaSe_PWR_V3_2.kicad_prl",
+    "filename": "BaSe_PWR_V3_3.kicad_prl",
     "version": 3
   },
   "project": {
