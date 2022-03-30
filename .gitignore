@@ -1,5 +1,6 @@
 *.bak
 rescue-backup/
 BackupServer-backups/
+BaSe_PWR*backups/
 *.dcm
 
